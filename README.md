@@ -1,5 +1,5 @@
 # Welcome to FileCryptograph
 
-A File Encryption and Decryption Program
+A File Encryption and Decryption Program That Can Withstand Quantumn Computer
 
-Version 1 _ Testing Only 
+This is still a prototype testing out the most efficient and most secured encrpytion algorithm 
